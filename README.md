@@ -1,4 +1,4 @@
-# datascape
+# datascrape
 
 `WikipediaScrape-ContestedNeutrality.ipynb`
 
